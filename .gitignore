@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+models/*.keras
+models/*.h5
+outputs/*
+!outputs/.gitkeep
+!models/.gitkeep
+.DS_Store
+
+data/
+data_small/
+smoke_data/
